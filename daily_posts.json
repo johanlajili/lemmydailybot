@@ -1,0 +1,37 @@
+{
+    "monday": {
+      "communityId": 4363,
+      "title": "Lundi Tech",
+      "content": "Venez discuter technologie, gadgets, et autres."
+    },
+    "tuesday": {
+      "communityId": 4363,
+      "title": "Mardi cuisine",
+      "content": "Partagez vos créations culinaires et vos recettes."
+    },
+    "wednesday": {
+      "communityId": 4363,
+      "title": "Mercredi ciné-série",
+      "content": "Venez discuter de vos films et séries préférés."
+    },
+    "thursday": {
+      "communityId": 4363,
+      "title": "Jeudi création",
+      "content": "Venez poster toutes vos créations."
+    },
+    "friday": {
+      "communityId": 4363,
+      "title": "Vendredi jeux video",
+      "content": "Venez discuter de vos jeux préférés et du moment."
+    },
+    "saturday": {
+      "communityId": 4363,
+      "title": "Samedi culture",
+      "content": "Venez discuter de vos livres, musiques, et autres."
+    },
+    "sunday": {
+      "communityId": 4363,
+      "title": "Dimanche Auto-Promo",
+      "content": "Venez faire la promotion de vos projets."
+    }
+}
