@@ -1,37 +1,27 @@
 {
     "monday": {
-      "communityId": 4363,
-      "title": "Lundi Tech",
-      "content": "Venez discuter technologie, gadgets, et autres."
+      "communityId": 2,
+      "title": "Lundi Tech: Jeux Vidéo, Gadgets, Fediverse, Nouvelles technos...",
+      "content": "Venez discuter de vos jeux préférés et du moment, de l'actualité tech, posez vos questions sur le Fediverse, et partagez vos découvertes technologiques."
     },
     "tuesday": {
-      "communityId": 4363,
-      "title": "Mardi cuisine",
-      "content": "Partagez vos créations culinaires et vos recettes."
+      "communityId": 2,
+      "title": "Mardi manuel: Cuisine, Brico, Jardin etc.",
+      "content": "Pour vos photos de plats, vos questions bricolage, vos astuces potager et autres."
     },
     "wednesday": {
-      "communityId": 4363,
-      "title": "Mercredi ciné-série",
-      "content": "Venez discuter de vos films et séries préférés."
+      "communityId": 2,
+      "title": "Mercredi Audiovisuel: Ciné, Séries, Anime, Youtube, Musique, Podcasts...",
+      "content": "Le titre dit tout, venez partager vos découvertes et vos coups de coeur"
     },
     "thursday": {
-      "communityId": 4363,
-      "title": "Jeudi création",
-      "content": "Venez poster toutes vos créations."
+      "communityId": 2,
+      "title": "Jeudi Sérieux: Finance, Éducation, Politique etc.",
+      "content": "Posez vos questions à la commu, plaignez-vous de ce qui vous énerve et autres longs pavés argumentés. Réponses sérieuses attendues."
     },
     "friday": {
-      "communityId": 4363,
-      "title": "Vendredi jeux video",
-      "content": "Venez discuter de vos jeux préférés et du moment."
-    },
-    "saturday": {
-      "communityId": 4363,
-      "title": "Samedi culture",
-      "content": "Venez discuter de vos livres, musiques, et autres."
-    },
-    "sunday": {
-      "communityId": 4363,
-      "title": "Dimanche Auto-Promo",
-      "content": "Venez faire la promotion de vos projets."
+      "communityId": 2,
+      "title": "Vendredi Lecture: Livres, BD, Mangas, Comics, Magazines, etc.",
+      "content": "Venez partager vos lectures et vos coups de coeur, discutez du dernier tome de votre série préférée..."
     }
 }
