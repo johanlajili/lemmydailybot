@@ -4,14 +4,14 @@ A nodeJS / Docker based lemmy bot that does a "daily thread" every day, with the
 
 It also pins the thread in question and removes the pin the following day.
 
-It is currently used by @france@lemmy.world
+It is currently used by the [jlai.lu](https://jlai.lu) francophone Lemmy instance.
 
 ## How to run directly in NodeJS
 
 First you'll want to clone the repo and run npm install on it. Then you'll need to create a .env file with the following variables:
 
 ```
-LEMMY_URL=https://lemmy.world
+LEMMY_URL=[https://lemmy.world](https://jlai.lu)
 LEMMY_USERNAME=your_bot_username
 LEMMY_PASSWORD=your_bot_password
 ```
@@ -29,7 +29,7 @@ An easy way is to look at the websocket communication on your debugger for the l
 You can run it in docker from dockerhub with the following command
 
 docker pull iraldir/lemmy_daily_bot
-docker run -d -e LEMMY_INSTANCE_URL='youlemmyurl' -e LEMMY_USERNAME='yourbotusername' -e LEMMY_PASSWORD='yourbotpassword' iraldir/lemmy_daily_bot
+docker run -d -e LEMMY_INSTANCE_URL='yourlemmyurl' -e LEMMY_USERNAME='yourbotusername' -e LEMMY_PASSWORD='yourbotpassword' iraldir/lemmy_daily_bot
 
 ## How to build the docker image
 You can build the docker image locally with the following command instead if you want to make changes to the code:
